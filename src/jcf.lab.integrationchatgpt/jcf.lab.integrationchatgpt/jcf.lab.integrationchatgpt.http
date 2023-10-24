@@ -1,0 +1,6 @@
+@jcf.lab.integrationchatgpt_HostAddress = http://localhost:5130
+
+GET {{jcf.lab.integrationchatgpt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

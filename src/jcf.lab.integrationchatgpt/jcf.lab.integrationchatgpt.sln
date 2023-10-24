@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jcf.lab.integrationchatgpt", "jcf.lab.integrationchatgpt\jcf.lab.integrationchatgpt.csproj", "{D40D9490-6922-4292-BC55-F20FAA6BA97E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40D9490-6922-4292-BC55-F20FAA6BA97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40D9490-6922-4292-BC55-F20FAA6BA97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40D9490-6922-4292-BC55-F20FAA6BA97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40D9490-6922-4292-BC55-F20FAA6BA97E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {560B4358-52F4-484E-B259-F02EA32F2DCE}
+	EndGlobalSection
+EndGlobal
